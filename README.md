@@ -2,4 +2,4 @@
 Portfolio
 
 Online website
-miloecom.dx.am
+http://miloecom.atspace.co.uk/
